@@ -221,8 +221,8 @@
         }
         
         .stat-box {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
+            background-color: rgb(243, 197, 110);
+            color: rgb(173, 53, 53);
             padding: 15px 25px;
             border-radius: 10px;
             text-align: center;
